@@ -1,15 +1,52 @@
-<h1 align="center">Hi 👋, I'm Bhavya Jain</h1>
-<h3>👋 Hi there! I'm Bhavya Jain, a passionate first-year Bachelor of Technology student specializing in Computer Science and Engineering at Swami Keshvanand Institute of Technology, Management & Gramothan, Jaipur. 🔭 I’m currently learning and honing my skills in Java, C/C++, and web technologies like HTML, CSS, and Python. Though I’m new to project collaboration, I'm eager to contribute to open-source projects and grow my portfolio. 👀 I’m interested in Software Development, App Development, and Game Development. My goal is to explore these fields through practical projects and internships in the coming years. 🚀 I am highly motivated and continually exploring new technologies in the tech world. Outside of coding, I have a keen interest in chess and cricket, which help me in strategizing and staying active. 🌱 I love connecting with fellow tech enthusiasts and developers. Let’s learn and grow together!</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-- 🌱 I’m currently learning **Java advanced**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhavya Jain</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=92F765&center=true&vCenter=true&random=false&width=435&lines=A+Dev+Student+from+Jaipur%2CRajasthan;Who+loves+Valorant+all+day;and+maybe+some+video+editing;and+also+music+production%3F+;Geez%F0%9F%AB%A3)](https://github.com/nerkoux)
+
+
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Java and WebDev**
 
 - 📫 How to reach me **jainbhavya2306@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_bhavyajain0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bhavyajain0001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jainbhavya2306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainbhavya2306" height="30" width="40" /></a>
+- ⚡ Fun fact **I play e-games.**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<br/>
+
+<p align="center">
+    <a href="https://github.com/nerkoux/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nerfex's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+<!--## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/nerkoux/github-readme-stats"><img alt="Nerfex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nerkoux&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nerkoux/github-readme-stats"><img alt="Nerfex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerkoux&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/nerkoux/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nerkoux&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+</p>
