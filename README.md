@@ -1,4 +1,7 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote">
+</p>
+
 
 # 💫 About Me:
 
@@ -16,7 +19,7 @@
 
 📬 Reach out to me at: [jainbhavya2306@gmail.com](mailto:jainbhavya2306@gmail.com)
 
-
+<br><br><br>
 # 💻 Tech Stack
 
 ## 👨‍💻 Languages
@@ -88,9 +91,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
+<br><br>
 ### 📈 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=bhavyajain-prog&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhavyajain-prog&theme=dark&hide_border=false)
+
+<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bhavyajain-prog&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
