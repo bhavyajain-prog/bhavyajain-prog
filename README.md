@@ -1,7 +1,21 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 💫 About Me:
-🔭 I’m currently working on Trackify, a personal finance tracker, along with various small-scale projects to sharpen my dev skills and build a solid portfolio.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on real-world projects that help me learn, contribute, and grow as a developer.<br><br>🤝 I’m looking for help with optimizing backend logic, integrating ML models, and improving app performance.<br><br>🌱 I’m currently learning Spring Boot, Android Development with Kotlin, and diving into TensorFlow with Python.<br<br>>💬 Ask me about Java, Firebase, MERN stack basics, or project structuring tips.<br><br>⚡ Fun fact: I love to explore—tech or not! I'm into gaming, football, badminton, and sometimes go down random rabbit holes on the internet 🌍<br><br>📬 Reach out to me at: jainbhavya2306@gmail.com
+
+🔭 I’m currently working on **Trackify**, a personal finance tracker, along with various small-scale projects to sharpen my dev skills and build a strong portfolio.
+
+🧑‍🤝‍🧑 I love collaborating on real-world projects that help me learn, contribute, and grow as a developer.
+
+🤝 I'm open to help with backend logic, integrating ML models, and improving app performance.
+
+🌱 Currently diving into **Spring Boot**, **Android Development with Kotlin**, and exploring **TensorFlow with Python**.
+
+💬 Ask me about **Java**, **Firebase**, **MERN stack basics**, or how to structure a beginner-friendly project.
+
+⚡ Fun fact: I enjoy exploring—tech or not! Whether it’s gaming, football, badminton, or falling into random internet rabbit holes 🌍
+
+📬 Reach out to me at: [jainbhavya2306@gmail.com](mailto:jainbhavya2306@gmail.com)
+
 
 
 ## 🌐 Socials:
