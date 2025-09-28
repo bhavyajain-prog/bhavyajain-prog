@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-generator.akszt.dev/?name=Bhavya+Jain&desc=Full+Stack+Developer&height=300&titleX=30&titleY=55&descX=70&descY=50&color=ocean&animation=glow&fontSize=90&descFontSize=24" alt="Terminal Header" />
 </div>
-
+<hr/>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote">
 </p>
