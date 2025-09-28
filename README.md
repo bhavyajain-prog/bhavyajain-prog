@@ -8,7 +8,7 @@
 <hr/>
 
 # 💫 About Me:
----
+
 🔭 I’m currently working on **Trackify**, a personal finance tracker, along with various small-scale projects to sharpen my dev skills and build a strong portfolio.
 
 🧑‍🤝‍🧑 I love collaborating on real-world projects that help me learn, contribute, and grow as a developer.
