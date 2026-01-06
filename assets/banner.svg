@@ -43,22 +43,56 @@
   <circle cx="900" cy="260" r="1" fill="#04A777" opacity="0.3"/>
   <circle cx="1100" cy="240" r="1.5" fill="#06d99a" opacity="0.4"/>
   
-  <!-- Wave shapes at bottom -->
-  <path d="M0,220 Q150,200 300,220 T600,220 T900,220 T1200,220 L1200,300 L0,300 Z" fill="#1d1b29" opacity="0.4"/>
-  <path d="M0,240 Q200,225 400,240 T800,240 T1200,240 L1200,300 L0,300 Z" fill="#131119" opacity="0.5"/>
+  <!-- Geometric shapes and lines at bottom -->
+  <!-- Horizontal lines -->
+  <line x1="0" y1="230" x2="300" y2="230" stroke="#04A777" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="245" x2="700" y2="245" stroke="#04A777" stroke-width="1" opacity="0.3"/>
+  <line x1="800" y1="235" x2="1200" y2="235" stroke="#06d99a" stroke-width="1" opacity="0.4"/>
   
-  <!-- Main name text with glow -->
-  <text x="600" y="120" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="#04A777" text-anchor="middle" filter="url(#strong-glow)">
+  <!-- Triangles -->
+  <polygon points="150,300 100,250 200,250" fill="#04A777" opacity="0.15"/>
+  <polygon points="450,300 400,260 500,260" fill="#06d99a" opacity="0.1"/>
+  <polygon points="950,300 900,255 1000,255" fill="#04A777" opacity="0.12"/>
+  
+  <!-- Hexagon shapes -->
+  <polygon points="600,270 590,280 590,290 600,300 610,290 610,280" fill="none" stroke="#04A777" stroke-width="1" opacity="0.4"/>
+  <polygon points="750,265 740,275 740,285 750,295 760,285 760,275" fill="none" stroke="#06d99a" stroke-width="1" opacity="0.35"/>
+  
+  <!-- Small connecting dots -->
+  <circle cx="100" cy="250" r="2" fill="#04A777" opacity="0.5"/>
+  <circle cx="200" cy="250" r="2" fill="#04A777" opacity="0.5"/>
+  <circle cx="400" cy="260" r="2" fill="#06d99a" opacity="0.4"/>
+  <circle cx="500" cy="260" r="2" fill="#06d99a" opacity="0.4"/>
+  <circle cx="900" cy="255" r="2" fill="#04A777" opacity="0.5"/>
+  <circle cx="1000" cy="255" r="2" fill="#04A777" opacity="0.5"/>
+  
+  <!-- Diagonal accent lines -->
+  <line x1="250" y1="240" x2="350" y2="270" stroke="#04A777" stroke-width="1" opacity="0.25"/>
+  <line x1="650" y1="250" x2="720" y2="280" stroke="#06d99a" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Left side tagline text -->
+  <text x="80" y="125" font-family="'Georgia', serif" font-size="22" font-weight="400" font-style="italic" fill="#04A777" opacity="0.85" filter="url(#glow)">
+    Building awesome
+  </text>
+  <text x="80" y="152" font-family="'Georgia', serif" font-size="22" font-weight="400" font-style="italic" fill="#04A777" opacity="0.85" filter="url(#glow)">
+    projects for
+  </text>
+  <text x="80" y="179" font-family="'Georgia', serif" font-size="22" font-weight="400" font-style="italic" fill="#04A777" opacity="0.85" filter="url(#glow)">
+    awesome people
+  </text>
+  
+  <!-- Main name text with glow (moved right) -->
+  <text x="800" y="120" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="#04A777" text-anchor="middle" filter="url(#strong-glow)">
     Bhavya Jain
   </text>
   
   <!-- Shadow/duplicate layer for stronger effect -->
-  <text x="600" y="120" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="#06d99a" text-anchor="middle" opacity="0.5">
+  <text x="800" y="120" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="#06d99a" text-anchor="middle" opacity="0.5">
     Bhavya Jain
   </text>
   
-  <!-- Subtitle -->
-  <text x="600" y="160" font-family="'Courier New', monospace" font-size="24" font-weight="600" fill="#04A777" text-anchor="middle" filter="url(#glow)" letter-spacing="3" opacity="0.8">
+  <!-- Subtitle (moved right) -->
+  <text x="800" y="160" font-family="'Courier New', monospace" font-size="24" font-weight="600" fill="#04A777" text-anchor="middle" filter="url(#glow)" letter-spacing="3" opacity="0.8">
     Full Stack Developer
   </text>
 </svg>
