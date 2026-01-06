@@ -31,7 +31,7 @@ public void myProfile() {
 **Frameworks & Technologies**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql&theme=dark" />
 </p>
 
 **Tools & Platforms**
