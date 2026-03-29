@@ -20,24 +20,60 @@ public void myProfile() {
 
 ---
 
+### 🧑‍💻 About Me
+
+- 📍 Based in **Jaipur, Rajasthan**
+- 🎓 **Full Stack Student** — always learning, always building
+- 🎮 When I'm not coding: Gaming, Music & Late Night Coding sessions
+- ⚡ Fun fact: Alt+Tab world champion — IDE to game in **0.3 seconds**
+- 🚀 Currently building something cool... **stay tuned**
+
+---
+
 ### 🛠️ Tech Stack
 
-**Languages**
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks & Tech</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & Platforms</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavyajain-prog&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=04A777&icon_color=04A777&text_color=c9d1d9&ring_color=04A777" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyajain-prog&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=04A777&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
-**Frameworks & Technologies**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql&theme=dark" />
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyajain-prog&theme=dark&hide_border=true&background=0d1117&stroke=04A777&ring=04A777&fire=06d99a&currStreakLabel=04A777&sideLabels=04A777&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
 </p>
 
-**Tools & Platforms**
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavyajain-prog&bg_color=0d1117&color=04A777&line=06d99a&point=04A777&area=true&area_color=04A777&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhavyajain-prog/bhavyajain-prog/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
